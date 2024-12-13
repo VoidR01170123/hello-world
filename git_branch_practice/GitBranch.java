@@ -11,6 +11,7 @@ public class GitBranch {
 		int result2 = a + b + c;
 		
 		int result3 = result + result2;
+		안녕하세요 선생님
 
 	}
 
