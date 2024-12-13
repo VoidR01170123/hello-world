@@ -9,6 +9,8 @@ public class GitBranch {
 		
 		a = 12; b = 13; c = 14;
 		int result2 = a + b + c;
+		
+		int result3 = result + result2;
 
 	}
 
